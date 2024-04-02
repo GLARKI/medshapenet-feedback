@@ -18,7 +18,7 @@ README = readme()
 setup(
     name='MedShapeNetCore',
     version=MedShapeNetCore.__version__,
-    url='https://github.com/Jianningli/medshapenet-feedback/',
+    url='https://github.com/GLARKI/medshapenet-feedback/',
     license='Apache-2.0 License',
     author='Jianning Li',
     author_email='jianningli.me@gmail.com',
