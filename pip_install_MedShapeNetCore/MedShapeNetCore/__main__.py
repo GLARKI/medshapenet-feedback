@@ -16,8 +16,8 @@ class DevNull:
         pass
 
 data_set_info={
-    'homepage':'https://github.com/Jianningli/medshapenet-feedback/',
-    'contact':'Jianning Li, jianningli.me@gmail.com',
+    'homepage':'https://github.com/GLARKI/medshapenet-feedback/',
+    'contact':'Gijs Luijten, Gijs.Luijten@gmail.com',
     'version': f'MedShapeNetCore v{MedShapeNetCore.__version__}',
     'dataset': {               
                'ASOCA':{'url':'https://zenodo.org/records/10623506/files/medshapenetcore_ASOCA.npz?download=1',
