@@ -3,7 +3,7 @@
 MedShapeNetCore is a subset of [MedShapeNet](https://arxiv.org/abs/2308.16139), containing more lightweight 3D anatomical shapes in the format of mask, point cloud and mesh. The shape data are stored as numpy arrays in nested dictonaries in *npz* format ([Zenodo](https://zenodo.org/records/10423181)).
 This API provides means to downloading, accessing and processing the shape data via Python, which integrates MedShapeNetCore seamless into Python-based machine learning workflows.
 
-Check out [Show case](https://github.com/Jianningli/medshapenet-feedback/blob/main/pip_install_MedShapeNetCore/examples/MedShapeNetShowCase.ipynb) for the latest update.
+Check out [Show case](https://github.com/GLARKI/medshapenet-feedback/blob/main/pip_install_MedShapeNetCore/examples/MedShapeNetShowCase.ipynb) for the latest update.
 
 ## Installation (Python >=3.8, [Release page](https://pypi.org/project/MedShapeNetCore/)) 
 
@@ -14,7 +14,7 @@ or install from source:
     python setup.py install
     
 
-## Getting started ([![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Jianningli/medshapenet-feedback/blob/main/pip_install_MedShapeNetCore/getting_started.ipynb))
+## Getting started ([![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/GLARKI/Jianningli/medshapenet-feedback/blob/main/pip_install_MedShapeNetCore/getting_started.ipynb))
 
 basic commands:
 
@@ -30,14 +30,14 @@ how to import module functions in python:
 
      from MedShapeNetCore.MedShapeNetCore import MyDict,MSNLoader,MSNVisualizer,MSNSaver,MSNTransformer,__version__
      
-For more commands and detailed usage, please refer to the colab [notebook](https://colab.research.google.com/github/Jianningli/medshapenet-feedback/blob/main/pip_install_MedShapeNetCore/getting_started.ipynb).
+For more commands and detailed usage, please refer to the colab [notebook](https://colab.research.google.com/github/GLARKI/medshapenet-feedback/blob/main/pip_install_MedShapeNetCore/getting_started.ipynb).
 
 
 
 ## Use MedShapeNetCore in Machine Learning Workflows (Minimal Reproducible Example)
 
-* 3D Shape Classification with MONAI [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Jianningli/medshapenet-feedback/blob/main/pip_install_MedShapeNetCore/examples/MONAI_3D_Shape_Classification.ipynb)
-* 3D Shape Classification with Tensorflow [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Jianningli/medshapenet-feedback/blob/main/pip_install_MedShapeNetCore/examples/Tensorflow_3D_Shape_Classification.ipynb)
+* 3D Shape Classification with MONAI [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GLARKI/medshapenet-feedback/blob/main/pip_install_MedShapeNetCore/examples/MONAI_3D_Shape_Classification.ipynb)
+* 3D Shape Classification with Tensorflow [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GLARKI/medshapenet-feedback/blob/main/pip_install_MedShapeNetCore/examples/Tensorflow_3D_Shape_Classification.ipynb)
 
 ## Reference
 ```
