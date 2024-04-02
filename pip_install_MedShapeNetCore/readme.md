@@ -14,7 +14,7 @@ or install from source:
     python setup.py install
     
 
-## Getting started ([![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/GitHub/GLARKI/medshapenet-feedback/blob/main/pip_install_MedShapeNetCore/getting_started.ipynb))
+## Getting started ([![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GLARKI/medshapenet-feedback/blob/main/pip_install_MedShapeNetCore/getting_started.ipynb))
 
 basic commands:
 
