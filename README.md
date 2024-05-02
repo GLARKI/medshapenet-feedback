@@ -81,7 +81,7 @@ Refer to our [MedShapeNet Paper](https://arxiv.org/pdf/2308.16139.pdf) for a ful
 Refer to the [publication page](https://proj-page.github.io/medshapenet_publications.html).
 
 ## Contact 
-Contact Jianning Li (jianningli.me@gmail.com) for any questions related to MedShapeNet.
+Contact Gijs Luijten (gijs.luijten@uk-essen.de) for any questions related to MedShapeNet.
 
 
 
